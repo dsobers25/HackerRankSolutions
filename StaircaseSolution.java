@@ -1,5 +1,6 @@
 package HackerRankSolutions;
 
+
 public class StaircaseSolution {
 
 
@@ -18,7 +19,7 @@ public class StaircaseSolution {
             }
     }
 
-    
+
     public static void main(String[] args) {
         staircase(6);
 
