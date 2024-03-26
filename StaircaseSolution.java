@@ -1,6 +1,7 @@
 package HackerRankSolutions;
 
 
+
 public class StaircaseSolution {
 
 
