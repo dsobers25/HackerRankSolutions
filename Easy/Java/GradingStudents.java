@@ -3,7 +3,7 @@ package HackerRankSolutions.Easy.Java;
 import java.util.ArrayList;
 import java.util.List;
 
-public class GradingStudens {
+public class GradingStudents {
 
     public static List<Integer> gradingStudents(List<Integer> grades) {
         // Write your code here
