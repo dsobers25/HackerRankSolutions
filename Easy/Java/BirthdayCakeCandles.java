@@ -12,7 +12,7 @@ public class BirthdayCakeCandles {
     }
 
     public static void main(String[] args) {
-        List candles = new ArrayList<>();
+        List<Integer> candles = new ArrayList<>();
         candles.add(5);
         candles.add(4);
         candles.add(5);
