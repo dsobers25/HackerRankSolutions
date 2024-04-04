@@ -1,3 +1,5 @@
+package HackerRankSolutions.Easy.Java;
+
 import java.util.ArrayList;
 import java.util.List;
 
