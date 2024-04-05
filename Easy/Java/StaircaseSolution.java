@@ -1,6 +1,3 @@
-package HackerRankSolutions.Easy.Java;
-
-
 
 public class StaircaseSolution {
 
